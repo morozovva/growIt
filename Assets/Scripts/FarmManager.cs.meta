@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05e8d60aebce24244a521347d3bb6d2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectPlant: {instanceID: 0}
+  - moneyTxt: {instanceID: 0}
+  - normalButton: {fileID: -1957951587, guid: efd386153549f41629e03088f69ea88d, type: 3}
+  - selectedButton: {fileID: 1639087022, guid: efd386153549f41629e03088f69ea88d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
